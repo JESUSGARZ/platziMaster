@@ -1,0 +1,34 @@
+{
+    "data": [
+       
+        {
+            "titulo": "PERFIL",
+            "texto":"Soy jesus alberto garzon castillo,Soy un egresado de administración de empresas de la universidad de la Salle. Me interesa la educación y mi desarrollo personal y académico, soy responsable, dedicado y participativo, se manejar grupos y hablar en público. Manejo temas de finanzas, estados financieros, manejo de personal y proyectos. Soy sociable, creativo y me gusta ayudar a los demás y ser proactivo.  Me gusta programar, actualmente me quiero dedicar de lleno al mundo de la tecnologia y la programacion Web"
+        
+        },
+        {
+            "titulo": "ESTUDIOS",
+            "texto":" En la universidad estudie dministracion de empresas, en la universidad de la salle, colombia. Ademas actualmente curso la escuela de java script en platzi y tengo casi un 30% del apredizaje requerido, tambien he cursado los temas basicos de html,css y busco terminar la escuela de desarrollo web completa, pues es el tema al que me quiero dedicar de ahora en adelante "
+        
+        },
+        {
+            "titulo": "EXPERIENCIA LABORAL",
+            "texto":"Mi experiencia laboral ha sido mas que todo en areas de ventas y de administracion de negocios, cuanto tenia 17 trabaje en una tienda de ropa (alli aprendi a vender), a los 21 tuve la oportunidad de trabajar en mi profesion (administracion de empresas) ad ministrando un jardin infantil de la secretaria de integracion, finalmente en la actualidad estoy dedicado a aprender"
+        
+        },
+        {
+            "titulo": "IDIOMAS Y CURSOS",
+            "texto":"En ingles tengo certificado hasta el nivel B2, pero ademas he tenido la fortuna de salir del pais y poder practicarlo, es un lenguaje que se me facilita y siempre me ha gustado, busco certificarme internacionalmente pronto. Ademas de lo ya mencionado tengo un monton de cursos de todo tipo; ya sea en ingles, en electricidad, en PHP, etc, y he pertenecido a la escuala de liderazgo de la universidad de la Salle"
+        
+        },
+        {
+            "titulo": "CONTACTO",
+            "texto": "CORREO: jesus.castillo352@gmail.com /n  CEL: 305-772-4673,/n por favor tener en cuenta que tuve que aprender react de un dia para otro, para poder hacer esto jeje, platzi master aqui voy"  
+        
+        }
+        
+    
+
+        
+    ]
+}
